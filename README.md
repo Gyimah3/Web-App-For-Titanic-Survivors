@@ -23,6 +23,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
         streamlit run strmlit_app.py
 
 - You can access the hosted app on Huggingface spaces at the link below :
+
   [click here](https://huggingface.co/spaces/Gyimah3/Streamlit-App-For-Titanic-Survivors)
   
 - You can access the hosted app on streamlit cloud at the link below :
