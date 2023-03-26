@@ -20,6 +20,6 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
 - Run the demo apps (being at the repository root):
 
-        streamlit run app.py
+        streamlit run strmlit_app.py
 
 - You can access the hosted app on Huggingface spaces at the link below :
