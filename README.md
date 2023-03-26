@@ -28,8 +28,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 ## Screenshots
 
 <table>
-    <tr>
-       
+    <tr>  
         <th>Input Interface</th>
         <th>Input Interface and side Bar</th>
         <th>After Prediction</th>
