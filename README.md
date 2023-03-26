@@ -24,3 +24,23 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
 - You can access the hosted app on Huggingface spaces at the link below :
   [click here](https://huggingface.co/spaces/Gyimah3/Streamlit-App-For-Titanic-Survivors)
+
+## Screenshots
+
+<table>
+    <tr>
+       
+        <th>Input Interface</th>
+        <th>Input Interface and side Bar</th>
+        <th>After Prediction</th>
+    </tr>
+    <tr>
+        <td><img src="./images/screen1.png"/></td>
+        <td><img src="./images/screen2.png"/></td>
+        <td><img src="./images/screen3.png"/></td>
+    </tr>
+</table>
+
+    
+  ## Author:
+[Gyimah Gideon](https://www.linkedin.com/in/gideon-gyimah-08268b243/)  
